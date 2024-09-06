@@ -42,7 +42,7 @@ This repository is working with [MedMNIST official code](https://github.com/MedM
 
 4. For *MedMNIST3D*, our code additionally requires [ACSConv](https://github.com/M3DV/ACSConv). Install it through `pip` via the command bellow:
 
-        pip install git+git://github.com/M3DV/ACSConv.git
+        pip install git+https://github.com/M3DV/ACSConv.git
     
     Then you can check use the cool `2.5D`, `3D` and `ACS` model convertor as follows:
 
